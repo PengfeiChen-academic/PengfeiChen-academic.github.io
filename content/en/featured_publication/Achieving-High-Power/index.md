@@ -1,8 +1,8 @@
 ---
 title: "Achieving High Power Density and Durability of Sliding Mode Triboelectric Nanogenerator by Double Charge Supplement Strategy (High cited)"
-pubs: Adv. Energy Mater. 2022, 12, 2201813
+pubs: _**Adv. Energy Mater.**_ 2022, 12, 2201813
 author_text: "**Pengfei Chen**, Yingjin Luo, Renwei Cheng, Sheng Shu, Jie An, Andy Berbille, Tao Jiang, and Zhong Lin Wang"
-
+date: 2022-12-02
 summary: ""
 featured: true
 # 详情页面的 社交按钮图标 不展示 

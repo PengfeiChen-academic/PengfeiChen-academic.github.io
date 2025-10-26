@@ -1,8 +1,8 @@
 ---
 title: "Biomimetic hairy whiskers for robotic skin tactility"
-pubs: Adv. Mater., 2021, 33, 2101891
+pubs: _**Adv. Mater.**_, 2021, 33, 2101891
 author_text: "Jie An+, **Pengfei Chen**+, Ziming Wang, Andy Berbille, Hao Pang, Yang Jiang, Tao Jiang, Zhong Lin Wang"
-
+date: 2021-03-12
 summary: ""
 featured: true
 # 详情页面的 社交按钮图标 不展示 

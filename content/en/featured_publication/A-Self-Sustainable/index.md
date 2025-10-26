@@ -1,8 +1,8 @@
 ---
 title: "A Self-Sustainable, Ultrarobust and High-Power-Density Triboelectric Nanogenerator for In-Situ Powering of Marine Internet of Things"
-pubs: Adv. Mater. 2025, e11283
+pubs: _**Adv. Mater.**_ 2025, e11283
 author_text: "**Pengfei Chen**, Zheng Zhang, Cuiying Ye, Yang Jiang, Litu Chen, Zhiqiang Xu, Minyi Xu, Zhanyong Hong, Tao Jiang, Zhong Lin Wang"
-
+date: 2025-05-02
 summary: ""
 featured: true
 # 详情页面的 社交按钮图标 不展示 

@@ -1,8 +1,8 @@
 ---
 title: "Rationally Segmented Triboelectric Nanogenerator with Constant Direct-Current Output and Low Crest Factor"
-pubs: Energy. Environ. Sci., 2021, 14, 4523-4532
+pubs: _**Energy. Environ. Sci.**_, 2021, 14, 4523-4532
 author_text: "**Pengfei Chen**, Jie An, Renwei Cheng, Sheng Shu, Andy Berbille, Tao Jiang, and Zhong Lin Wang"
-
+date: 2021-04-22
 summary: ""
 featured: true
 # 详情页面的 社交按钮图标 不展示 

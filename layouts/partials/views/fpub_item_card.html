@@ -22,6 +22,10 @@
 
 <div class="card-simple view-card">
 
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
+  </div>
+
   <div class="article-metadata">
       {{ with $item.Params.author_text }}
         <div>{{ . | markdownify | emojify }}</div>
@@ -38,18 +42,16 @@
   <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>
     <div class="img-hover-zoom research-featured-img">
       <img src="{{ .RelPermalink }}"
-           class="article-banner" alt="{{ $item.Title }}" loading="lazy">
+           class="article-banner" style="object-fit: contain;"
+           alt="{{ $item.Title }}" loading="lazy">
     </div>
   </a>
   {{end}}
 
-  <div class="section-subheading article-title mb-1 mt-3">
-    <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
-  </div>
 
   {{ with $summary }}
   <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
-    <div class="article-style">
+    <div class="article-style" style="text-indent: 1rem; text-align: justify;">
       <p>{{.}}</p>
     </div>
   </a>

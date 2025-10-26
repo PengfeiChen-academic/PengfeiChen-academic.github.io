@@ -6,15 +6,38 @@
 {{ $.Page.Store.Set "has_isotope" true }}
 
 
+{{- $widget_args := dict "root" $ "page" . -}}
+
 {{ partial "page_header.html" . }}
 
 <div class="universal-wrapper">
   <div class="row">
     <div class="col-lg-12">
 
+      <div class="pt-3 pb-3">
+        <h2>Featured Publications</h2>
+      </div>
+
       {{ with .Content }}
-      <div class="article-style">{{ . }}</div>
+      <div class="article-style"> {{ . }}  </div>
       {{ end }}
+
+
+      {{ partial "widgets/featured_publication" $widget_args  }}
+
+
+      <div class="pt-5 pb-3">
+        <h2>Full Publications</h2>
+      </div>
+
+      <div class="alert alert-note">
+        <div>Full list of my publication can be found
+          <a href="https://scholar.google.com/citations?hl=zh-CN&user=n4jIiT8AAAAJ" target="_blank">
+            here
+          </a>.
+        </div>
+      </div>
+
 
       {{/* Array of distinct years. */}}
       {{ range $index, $item := $pub_items }}

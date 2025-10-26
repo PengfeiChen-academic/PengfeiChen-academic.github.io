@@ -5,7 +5,7 @@
 #widget: portfolio
 widget: featured_publication
 
-active: true
+active: false
 
 # This file represents a page section.
 headless: true
@@ -42,6 +42,3 @@ design:
   
   
 ---
-
-
-<div class="alert alert-note"><div>Full list of my publication can be found <a href="./publication/">here</a>.</div></div>
