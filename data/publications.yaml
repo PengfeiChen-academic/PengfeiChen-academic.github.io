@@ -29,6 +29,8 @@ full_publications:
     authors: "J. Sui, S. Wang, R. Wang, **P. Chen**, W. Liu, C. Jia, F. Pan, X. Wang"
     journal: "Nano Lett."
     year: 2025
+    volume: "25, 26"
+    pages: "10395–10401"
     extra_links:
       - name: "pdf"
         url: "https://pubs-acs-org.ezproxy.library.wisc.edu/doi/pdf/10.1021/acs.nanolett.5c01801?ref=article_openPDF"

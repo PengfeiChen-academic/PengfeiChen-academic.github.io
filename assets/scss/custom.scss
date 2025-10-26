@@ -59,7 +59,16 @@ $text-primary-color: #ff3860;
 
 
 
-
+.pub-list-item {
+  .pub-jan  {
+    font-style: italic;
+    font-weight: bold;
+    font-family: "Times New Roman";
+  }
+  .pub-year {
+    font-weight: bold;
+  }
+}
 
 
 .experience-icon-image {
