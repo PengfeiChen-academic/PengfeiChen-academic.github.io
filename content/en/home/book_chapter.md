@@ -15,7 +15,7 @@ contact_img:
 ---
 
 
-**P. Chen** “Marine Environment Sensing Based on Triboelectric Nanogenerators”, **Chapter 8** in "Application of Triboelectric Nanogenerators in Marine Science and Engineering", **Science Press**, Under editing.
+**P. Chen** “Marine Environment Sensing Based on Triboelectric Nanogenerators”, **Chapter 8** in "Application of Triboelectric Nanogenerators in Marine Science and Engineering", **Science Press**, ISBN: 9787030848031, 2026.03.
 
 
 
